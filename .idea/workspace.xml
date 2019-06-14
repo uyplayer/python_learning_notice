@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3ad352f-f451-471d-83e6-259e71401a43" name="Default Changelist" comment="" />
+    <list default="true" id="d3ad352f-f451-471d-83e6-259e71401a43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python100/day 03 - next permutation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="379">
+              <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -52,17 +54,15 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-38" />
     <option name="y" value="71" />
-    <option name="width" value="1017" />
-    <option name="height" value="972" />
+    <option name="width" value="1007" />
+    <option name="height" value="968" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,6 +79,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,11 +211,13 @@
       <workItem from="1559264128787" duration="4219000" />
       <workItem from="1559400460262" duration="3643000" />
       <workItem from="1559521960843" duration="4788000" />
+      <workItem from="1560158675635" duration="1215000" />
+      <workItem from="1560216114822" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12650000" />
+    <option name="totallyTimeSpent" value="14755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,7 +232,7 @@
     <frame x="0" y="28" width="1920" height="1015" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14102565" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14423077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -243,7 +246,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32845894" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32845894" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -264,8 +267,8 @@
     <entry file="file://$PROJECT_DIR$/day 02 - matrix chain multiplication.py" />
     <entry file="file://$PROJECT_DIR$/python100/day 03 - next permutation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="379">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
